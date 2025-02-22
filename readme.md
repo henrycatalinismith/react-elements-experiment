@@ -1,23 +1,4 @@
-<p align="center">
-  <img
-    alt="11tysass"
-    src="https://github.com/henrycatalinismith/elements/raw/trunk/elements.svg"
-    height="64"
-  />
-</p>
-
-<p align="center">
-  <strong>
-    A plain HTML React component library
-  </strong>
-</p>
-
-<p align="center">
-  <img
-    src="https://github.com/henrycatalinismith/elements/actions/workflows/publish.yml/badge.svg"
-    alt="Build status"
-  />
-</p>
+# react elements experiment
 
 This project is an exploration of some ideas around React, TypeScript and HTML.
 For a while I've wondered if React & TypeScript can be used to facilitate
