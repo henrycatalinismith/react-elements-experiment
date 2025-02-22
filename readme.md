@@ -18,3 +18,7 @@ used for anything other than server-side rendering.
 
 So that's probably that for this project, but the repo gets to stay online
 anyway just in case I want to borrow code or ideas from it.
+
+## License
+
+[MIT](https://codeberg.org/henrycatalinismith/react-elements-experiment/src/branch/main/license)
