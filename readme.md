@@ -21,4 +21,4 @@ anyway just in case I want to borrow code or ideas from it.
 
 ## License
 
-[MIT](https://codeberg.org/henrycatalinismith/react-elements-experiment/src/branch/main/license)
+[MIT](https://github.com/henrycatalinismith/react-elements-experiment/blob/main/license)
